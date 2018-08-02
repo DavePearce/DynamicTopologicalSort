@@ -1,0 +1,12 @@
+Notes on compiling the code
+---------------------------
+
+This code uses the BOOST Graph Library for the underlying graph representations.
+Therefore, you will need to get and install a copy of the BOOST library from 
+http://www.boost.org.  This code has been compiled and tested against version 1.33.0 of the BOOST library, and GCC v3.4.3. 
+
+Thanks!
+
+David J. Pearce
+
+Email: david.pearce@mcs.vuw.ac.nz
